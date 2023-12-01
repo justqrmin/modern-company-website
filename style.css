@@ -1,0 +1,41 @@
+body{
+    background-image: url(cdn/background-header.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.hero-section-1{
+    align-items: center;
+    color: white;
+    margin-top: 15%;
+}
+.hero-section-1 h1{
+    margin-top: 'Quicksand', sans-serif;
+    font-weight: 500px;
+    color: white;
+    font-size: 110px;
+    font-family: 'Oswald', sans-serif;
+    text-shadow: 0px 0px 10px #f5f5f5;
+    text-align: center;
+}
+.hero-section-1 p{
+    text-align: center;
+    margin-top: 'Quicksand', sans-serif;
+    color: white;
+    font-size: 21px;
+    font-weight: 100;
+    font-family: 'Oswald', sans-serif;
+    line-height: 15px;
+    margin-left: 10px;
+}
+.web-content-1{
+    margin-top: 10%;
+}
+.web-content-1 h1{
+    margin-top: 'Quicksand', sans-serif;
+    font-size: xx-large;
+}
+.web-content-1 p{
+    line-height: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
